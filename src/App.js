@@ -10,7 +10,7 @@ function App() {
   const [cart, setCart] = useState([]);
   return (
     <>
-    <BrowserRouter>
+    <BrowserRouter basename="/Food-Cart-Website">
     <Header cart = {cart} />
      <div className="container">
       <Routes>

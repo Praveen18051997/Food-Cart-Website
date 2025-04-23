@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Food-Cart-Website/static/css/main.54244981.css",
+    "main.js": "/Food-Cart-Website/static/js/main.9dcd43e7.js",
+    "static/js/453.9e9f4012.chunk.js": "/Food-Cart-Website/static/js/453.9e9f4012.chunk.js",
+    "index.html": "/Food-Cart-Website/index.html",
+    "main.54244981.css.map": "/Food-Cart-Website/static/css/main.54244981.css.map",
+    "main.9dcd43e7.js.map": "/Food-Cart-Website/static/js/main.9dcd43e7.js.map",
+    "453.9e9f4012.chunk.js.map": "/Food-Cart-Website/static/js/453.9e9f4012.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54244981.css",
+    "static/js/main.9dcd43e7.js"
+  ]
+}
